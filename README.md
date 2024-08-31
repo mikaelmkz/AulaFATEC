@@ -1,3 +1,1 @@
 # AulaFATEC
-
-Aula introdutória
