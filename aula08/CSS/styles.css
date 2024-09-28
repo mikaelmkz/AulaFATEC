@@ -24,3 +24,42 @@ div{
 .m{
     margin: 50px 50px 50px 50px;
 }
+
+.pt{
+    padding-top: 50px;
+}
+
+.pb{
+    padding-bottom: 50px;
+}
+
+.pr{
+    padding-right: 50px;
+}
+
+.pl{
+    padding-left: 50px;
+}
+
+.p{
+    padding: 50px 50px 50px 50px;
+}
+
+.block {
+    display: block;
+    background-color: rgb(37, 31, 27);
+}
+
+span{
+    display: block;
+}
+
+.inline {
+    display: inline;
+}
+
+.inline-block {
+    display: inline-block;
+    width: 75vw;
+}
+
